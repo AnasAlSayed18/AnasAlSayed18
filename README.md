@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋, my name is Anas Al Sayed<br>####  I am a Computer Science developer from Palestine<br>![ I am a Computer Science developer from Palestine](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)<br><br>I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML and CSS.<br><br><br>
+Hi there 👋, my name is Anas Al Sayed<br>####  I am a Computer Science developer from Palestine<br>![ I am a Computer Science developer from Palestine](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)<br><br>I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML and CSS.<br><br><br>
 
 
 # 💻 Skills and Experience:
