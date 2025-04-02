@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, my name is Anas Al Sayed<br>  I am a Software Engineering , Problem solver , and Computer Science  from Palestine<br>![ I am a Computer Science developer from Palestine](https://github.com/AnasAlSayed18/AnasAlSayed18/blob/main/IMG_0119.JPEG.jpg)<br><br>I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML and CSS.<br><br><br>
+Hi there 👋, my name is Anas Al Sayed<br>  I am a Software Engineering , Problem solver , and Computer Science  from Palestine<br>![ I am a Computer Science developer from Palestine](https://github.com/AnasAlSayed18/img/blob/631200424f9c79955af811e88b06fde15f387102/IMG_4595.JPEG.jpg)<br><br>I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML and CSS.<br><br><br>
 
 
 # 💻 Skills and Experience:
