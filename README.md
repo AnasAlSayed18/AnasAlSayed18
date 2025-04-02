@@ -1,13 +1,15 @@
 # 💫 About Me:
 
 <h1 align="center">Hi there 👋, I'm Anas Al Sayed</h1>
-<h3 align="center"> I am a Software Engineering , Problem solver , and Computer Science  from Palestine</h3>
+<h3 align="center"> I am a Software Engineering , Problem solver , and Computer Science  from Palestine 
+<img align="center" src="https://github.com/AnasAlSayed18/img/blob/94a56292ef597f5ff28047cc851d36ffa4a26ac2/icons8-palestine-48.png" alt="palestine" height="30" width="40" />
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-masalma&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-masalma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-masalma&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Al Sayed" /> </p>
 
 <br>  ![My Phtoe](https://github.com/AnasAlSayed18/img/blob/631200424f9c79955af811e88b06fde15f387102/IMG_4595.JPEG.jpg)<br>
 <br>
-<h3 align="center"> I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML and CSS</h3><br>
+<h3 align="center"> I am  specializing in Java and Object-Oriented Programming. I'm also skilled in C++, C, Python, and web development technologies like HTML , CSS , PHP and JavaScript</h3><br>
 
 
 
@@ -40,13 +42,13 @@
 # 💻 📫Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anas-al-sayed-97b618305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kareem-masalma/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anas-al-sayed-97b618305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-al-sayed/" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/anas.al.98434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/273Kareem" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anas.al.98434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anas.al.98434" height="30" width="40" /></a>
 
-<a href="https://instagram.com/anas_al_sayed18" target="blank"><img align="center" src="https://github.com/AnasAlSayed18/img/blob/c7f3b59556f6fe09a5d6d5ba94cef32acc447fcb/icons8-instagram-logo-94.png" alt="https://leetcode.com/u/kareem273/" height="40" width="40" /></a>
+<a href="https://instagram.com/anas_al_sayed18" target="blank"><img align="center" src="https://github.com/AnasAlSayed18/img/blob/c7f3b59556f6fe09a5d6d5ba94cef32acc447fcb/icons8-instagram-logo-94.png" alt="https://leetcode.com/u/anas.al.98434/" height="40" width="40" /></a>
 
-<a href="mailto:anasalsayed14@gmail.com" target="blank"><img align="center" src="https://github.com/AnasAlSayed18/img/blob/732f1366863648d0f41ad20cbf9a830154b41cc0/icons8-gmail-logo-94.png" alt="https://leetcode.com/u/kareem273/" height="40" width="40" /></a>
+<a href="mailto:anasalsayed14@gmail.com" target="blank"><img align="center" src="https://github.com/AnasAlSayed18/img/blob/732f1366863648d0f41ad20cbf9a830154b41cc0/icons8-gmail-logo-94.png" alt="https://leetcode.com/u/anas.al.98434/" height="40" width="40" /></a>
 
 
 
