@@ -1,4 +1,3 @@
-# 💫 About Me:
 
 <h1 align="center">Hi there 👋, I'm Anas Al Sayed</h1>
 <h3 align="center"> I am a Software Engineering , Problem solver , and Computer Science  from Palestine 
