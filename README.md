@@ -4,7 +4,15 @@
 <img align="center" src="https://github.com/AnasAlSayed18/img/blob/94a56292ef597f5ff28047cc851d36ffa4a26ac2/icons8-palestine-48.png" alt="palestine" height="30" width="40" />
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-masalma&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Al Sayed" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kareem-masalma&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Al Sayed" /> 
+</p>
+
+<p align="left">
+  <a href="https://preview--anas-codes-dark.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <br>  ![My Phtoe](https://github.com/AnasAlSayed18/img/blob/631200424f9c79955af811e88b06fde15f387102/IMG_4595.JPEG.jpg)<br>
 <br>
