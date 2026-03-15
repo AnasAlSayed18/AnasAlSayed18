@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://preview--anas-codes-dark.lovable.app" target="_blank">
+  <a href="https://anas-portfolio-pi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
